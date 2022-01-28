@@ -1,4 +1,4 @@
-# kp_6_bilgi_testi
+#
 
 A new Flutter project.
 
